@@ -2,7 +2,7 @@
 
 html {   
     box-sizing: border-box;
-    font-size: 2rem;
+    /* font-size: 2rem; */
 }
 
 body {
@@ -12,13 +12,13 @@ body {
     font-family: 'Spline Sans', sans-serif;
 }
 
-h1 {
+/* h1 {
     text-align: center;
     font-size: 1rem;
     margin-top: 15px;
     margin-bottom: 15px;
     letter-spacing: 2px;
-}
+} */
 
 .loader{
     position: fixed;
@@ -45,6 +45,7 @@ h1 {
 
 .image-container {
     margin: 5px 15%;
+    text-align: center;
 
 
 }
@@ -67,4 +68,21 @@ h1 {
     .image-container {
         margin: 10px;
     }
+}
+
+.text-bg-purple {
+    background-color: blueviolet;
+}
+
+footer {
+    background-color: blueviolet;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif, Courier, monospace;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
 }

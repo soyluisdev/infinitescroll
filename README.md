@@ -1,2 +1,6 @@
 # Infinite Scroll
-Testing some javascript functionalities
+## Javascript with unsplash API
+
+First prototype of infinityscroll using unsplash API, to load multiple images
+
+<img src="infinite-scroll.png">
